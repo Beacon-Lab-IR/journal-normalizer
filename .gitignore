@@ -1,0 +1,68 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+*.log
+*.sqlite3
+*.db
+
+# Virtual Environments
+env/
+venv/
+ENV/
+.venv/
+env.bak/
+venv.bak/
+.Python
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# JetBrains IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+*.swp
+
+# Thumbnails
+Thumbs.db
+ehthumbs.db
+
+# System files
+*.lock
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Pytest
+.cache
+*.cover
+.coverage
+nosetests.xml
+coverage.xml
+*.log
+
+# Pyre type checker
+.pyre/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Other
+*.bak
+*.tmp
+*.temp
+*.orig
