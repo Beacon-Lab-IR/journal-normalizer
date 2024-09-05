@@ -1,4 +1,4 @@
-# Journal Log Converter
+# Journal Normalizer
 
 This project provides tools to convert binary journal logs and hexadecimal logs into readable ASCII strings. The scripts are containerized using Docker, allowing you to run them on any platform that supports Docker.
 
